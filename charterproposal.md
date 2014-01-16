@@ -1,4 +1,3 @@
-
 Internet-Wide GeoNetworking (geonet)
 ====================================
 
@@ -10,9 +9,9 @@ Assigned Area Director:
   Ted Lemon
 
 Mailing list
-   Address: its@ietf.org
-   To subscribe: https://www.ietf.org/mailman/listinfo/its
-   Archive: http://www.ietf.org/mail-archive/web/its/current/maillist.html
+   Address: its@ietf.org  
+   To subscribe: https://www.ietf.org/mailman/listinfo/its  
+   Archive: http://www.ietf.org/mail-archive/web/its/current/maillist.html  
 
 Previous web page: http://www.lara.prd.fr/ietf-its
 
