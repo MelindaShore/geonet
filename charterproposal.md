@@ -10,13 +10,11 @@ Assigned Area Director:
   Ted Lemon
 
 Mailing list
-  Address: its@ietf.org
-  To Subscribe: https://www.ietf.org/mailman/listinfo/its
-  Archive:
-  http://www.ietf.org/mail-archive/web/its/current/maillist.html
+   Address: its@ietf.org
+   To subscribe: https://www.ietf.org/mailman/listinfo/its
+   Archive: http://www.ietf.org/mail-archive/web/its/current/maillist.html
 
-Additional web page, old
-  http://www.lara.prd.fr/ietf-its
+Previous web page: http://www.lara.prd.fr/ietf-its
 
 Charter Proposal
 ----------------
@@ -48,7 +46,7 @@ The main use-cases are:
 * vehicular traffic safety, efficiency, management and infotainment
 * mobile road-side unit
 * identification of originating area
-*o geolocation of instrumented ambulance
+* geolocation of instrumented ambulance
 
 Protocol work would begin after completion of these work items listed
 below, and upon rechartering.
