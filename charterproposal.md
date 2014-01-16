@@ -1,29 +1,10 @@
 
-Melinda,
-
-I am trying to come up with a Charter Proposal, see below text.
-
-I will let it there until tomorrow morning when I will check your emails first.
-
-Either you do edits or you tell me what to do.
-
-Alex
-
------------------------------------------------------------------------------
-              GeoNet BoF at IETF
-               Charter Proposal
-              January 16th, 2014
-         http://ietf.org/mailman/listinfo/its
-
-
-
-Internet-Wide GeoNetworking (GeoNet)
-------------------------------------
-Current Status: BoF
+Internet-Wide GeoNetworking (geonet)
+====================================
 
 Chairs:
-  Melinda Shore
-  Alexandru Petrescu
+  Melinda Shore (melinda.shore@gmail.com)
+  Alexandru Petrescu (alexandru.petrescu@gmail.com)
 
 Assigned Area Director:
   Ted Lemon
@@ -38,6 +19,7 @@ Additional web page, old
   http://www.lara.prd.fr/ietf-its
 
 Charter Proposal
+----------------
 
 The group is concerned with Internet-wide geonetworking.
 
@@ -51,35 +33,36 @@ addresses should be used.
 
 The challenges associated with Internet-wide Geonetworking that could
 be addressed at IETF are:
-o agree on accurate representations of geospatial information which
+* agree on accurate representations of geospatial information which
   could be used by IP routing and addressing, and that is relevant to
   many countries.
-o reuse or design new translation or mapping mechanisms between
+* reuse or design new translation or mapping mechanisms between
   geographical and other types of location representation and IP
   addresses.
-o forward IP packets according to additional criteria such as physical
+* forward IP packets according to additional criteria such as physical
   location identifiers.
 
 The main use-cases are:
-o dissemination to a geographical area
-o goods tracking
-o vehicular traffic safety, efficiency, management and infotainment
-o mobile road-side unit
-o identification of originating area
-o geolocation of instrumented ambulance
+* dissemination to a geographical area
+* goods tracking
+* vehicular traffic safety, efficiency, management and infotainment
+* mobile road-side unit
+* identification of originating area
+*o geolocation of instrumented ambulance
 
 Protocol work would begin after completion of these work items listed
 below, and upon rechartering.
 
 Work Items
 ----------
-o Problem Statement I-D (INFORMATIONAL)
-o GeoNet Terminology I-D (INFORMATIONAL)
-o Description of Geospatial Locators I-D (INFORMATIONAL)
-o GeoNet Framework  (INFORMATIONAL)
-o Mapping Between IP Locators and Geospatial Locators (INFORMATIONAL)
+* Problem Statement I-D (informational)
+* geonet Terminology I-D (informational)
+* Description of Geospatial Locators I-D (informational)
+* geonet Framework  (informational)
+* Mapping Between IP Locators and Geospatial Locators (informational)
 
 Milestones:
+----------
   Jul 2014 -
 
   Oct 2014 -
