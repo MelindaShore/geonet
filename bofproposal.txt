@@ -6,6 +6,13 @@
   Alexandru Petrescu (alexandru.petrescu@gmail.com), 
   Melinda Shore (melinda.shore@nomountain.net)
 
+. Agenda summary:
+  . note well, agenda-bashing, blue sheets
+  . status update
+  . use cases
+  . problem statement
+  . charter discussion.
+
 . Description, including whether the BoF is intended to form
   a WG or not:
 
@@ -37,9 +44,9 @@
 
 . Does it require WebEX? If so, why?  Yes. We have active
   contributors who will not be attending in person, as
-  well as remote subject matter experts
+  well as remote subject matter experts.
 
-. Does it require Meetecho? If so, why? Yes. Please see above.
+. Does it require Meetecho? If so, why?  Yes.  Please see above.
 
 . Links to the mailing list, draft charter if any, relevant
   Internet-Drafts, etc.
