@@ -1,4 +1,10 @@
-. Long name and abbreviation: geonet (Geographic Networking)
+. BOF full name and acronym: Geographic Networking [geonet]
+
+. Area: Internet Area
+
+. BoF Chairs (or the ADs as placeholders): 
+  Alexandru Petrescu (alexandru.petrescu@gmail.com), 
+  Melinda Shore (melinda.shore@nomountain.net)
 
 . Description, including whether the BoF is intended to form
   a WG or not:
@@ -9,40 +15,38 @@
   provide authorized source nodes anywhere in the internet
   to disseminate packets to nodes based on geographic
   location, while preserving the privacy of senders and
-  receivers.  Scenarios under discussion include the sender
+  receivers. Scenarios under discussion include the sender
   sending to nodes in a given geographic area while not
   knowing their identity, senders knowing the identity of
   the nodes receiving the packets, and nodes communicating
-  their location to senders.  The goal of this BOF is to
+  their location to senders. The goal of this BOF is to
   clarify which scenarios will fall within the scope of a
   working group, assess interest levels, and identify
   potential contributors.
 
   This is a working group-forming BOF.
 
-. The responsible Area Director (AD): Ted Lemon
+. Conflicts to avoid (whole Areas and/or WGs): 6man, v6ops, 
+  opsawg, lisp, geopriv, ecrit.
 
-. BoF Chairs (or the ADs as placeholders): Alexandru Petrescu
-  (alexandru.petrescu@gmail.com), Melinda Shore (melinda.shore@nomountain.net)
+. The responsible Area Director (AD): Ted Lemon
 
 . Number of people expected to attend: 100
 
 . Length of session (1, 1.5, 2, or 2.5 hours): 2 hours
 
-. Conflicts to avoid (whole Areas and/or WGs): dmm, 6man, 6lo,
-  v6ops, manet, opsawg
-
-. Does it require WebEX? If so, why?  Yes.  We have active
+. Does it require WebEX? If so, why?  Yes. We have active
   contributors who will not be attending in person, as
   well as remote subject matter experts
 
-. Does it require Meetecho? If so, why?  Yes.  Please see above
+. Does it require Meetecho? If so, why? Yes. Please see above.
 
 . Links to the mailing list, draft charter if any, relevant
   Internet-Drafts, etc.
-  Mailing list: email list: ietf.org/mailman/listinfo/its
-  problem statement: https://github.com/MelindaShore/geonet/blob/master/problemstatement.txt
-  internet drafts:
+  Mailing list: ietf.org/mailman/listinfo/its
+  Problem statement: 
+https://github.com/MelindaShore/geonet/blob/master/problemstatement.txt
+  Internet Drafts:
   https://datatracker.ietf.org/doc/draft-petrescu-its-scenarios-reqs/
   https://datatracker.ietf.org/doc/draft-karagiannis-problem-statement-geonetworking/
   https://datatracker.ietf.org/doc/draft-petrescu-ipv6-over-80211p/
