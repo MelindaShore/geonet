@@ -259,15 +259,37 @@ coordinates and geo-locators such as civic addresses.  This case
 should be further described, because some of these functions are much
 provided over radio by dispatchers and by GPS trackers.
 
-Differences between GeoNet and othet IETF working groups
+Differences between GeoNet and other IETF Working Groups
 ========================================================
-Text needs to be written that emphasizes what are the main differences
-between GeoNet and at least (1) ecrit, (2) LISP and (3) geopriv.
-
-Advocacy could be written once identification of the compelling
-use-case is done.
-
 Any new use-cases Geonet comes up with that require protocol changes 
 for any overlay technology, such as LISP, can be done in the appropriate 
 protocol working groups, such as the LISP WG.
+
+The GEOPRIV WG concentrates on protocols that allow applications to
+represent location/geography objects and to allow users to express
+policies on how these representations are exposed and used. Moreover,
+the GEOPRIV WG analyses the authorization, integrity, and privacy
+requirements that must be met when these representations of
+location/geography are created, stored, and used.  Geonet mainly
+focusses on how IP routing and addressing uses such location/geography
+representations.
+
+The LISP WG mainly focusses mainly on network-layer-based protocol
+solutions that enable the separation of routing locators (where you
+are attached to the network) and identifiers (who you are) in one
+number space.  Geonet mainly focusses on how IP routing and addressing
+uses geography parameters, like geographical coordinates to
+disseminate packets sent by a sender located anywhere in the Internet
+to nodes that are located in the area specified by these geography
+parameters.
+
+The ECRIT WG mainly focusses mainly on how location data and call
+routing information are used to enable communication between a user
+and a relevant emergency response center. In particular, the ECRIT WG
+has specified protocols to map emergency services identifiers and
+geodetic or civic location information to service contact URIs.
+Geonet mainly focusses on how IP routing and addressing uses geodetic
+or civic location information to disseminate packets sent by a sender
+located anywhere in the Internet to nodes that are located in the area
+specified by this geodetic or civic location information.
 
