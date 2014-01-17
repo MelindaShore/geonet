@@ -41,6 +41,7 @@
 . Links to the mailing list, draft charter if any, relevant
   Internet-Drafts, etc.
   Mailing list: email list: ietf.org/mailman/listinfo/its
+  problem statement: https://github.com/MelindaShore/geonet/blob/master/problemstatement.txt
   internet drafts:
   https://datatracker.ietf.org/doc/draft-petrescu-its-scenarios-reqs/
   https://datatracker.ietf.org/doc/draft-karagiannis-problem-statement-geonetworking/
