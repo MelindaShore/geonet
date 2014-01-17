@@ -13,7 +13,7 @@ GeoNet Challenges and Open Issues
 =================================
 o) Mechanisms and protocol solutions are needed for
    the accurate representation of geographic areas using (1)
-   geo-locators such as names and (2) geographic physical coordinates.
+   geo-locators such as names and (2) geographiic physical coordinates.
 
 o) Mechanisms and protocol solutions are needed to
    ensure that geographical area information (e.g. geo-locators,
