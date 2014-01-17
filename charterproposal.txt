@@ -1,7 +1,6 @@
-
               GeoNet BoF at IETF
                Charter Proposal
-              January 16th, 2014
+              January 17th, 2014
          http://ietf.org/mailman/listinfo/its
 
 
