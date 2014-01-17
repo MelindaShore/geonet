@@ -267,3 +267,7 @@ between GeoNet and at least (1) ecrit, (2) LISP and (3) geopriv.
 Advocacy could be written once identification of the compelling
 use-case is done.
 
+Any new use-cases Geonet comes up with that require protocol changes 
+for any overlay technology, such as LISP, can be done in the appropriate 
+protocol working groups, such as the LISP WG.
+
