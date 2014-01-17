@@ -11,11 +11,11 @@ addresses should be used.
 
 GeoNet Challenges and Open Issues
 =================================
-o) Mechanisms and protocol solutions layer are needed for
+o) Mechanisms and protocol solutions are needed for
    the accurate representation of geographic areas using (1)
    geo-locators such as names and (2) geographic physical coordinates.
 
-o) Mechanisms and protocol solutions layer are needed to
+o) Mechanisms and protocol solutions are needed to
    ensure that geographical area information (e.g. geo-locators,
    names, geographic physical coordinates) is accurately mapped to an
    IP locator, i.e. an IP address. Mapping data bases can be
@@ -54,8 +54,8 @@ o) SHOULD ideally support IPv4 and IPv6
 
 o) MUST at a minimum support IPv6
 
-o) MUST be able to use and insert geographic area information at the
-   network layer.
+o) MUST be able to use and insert geographic area
+   information for selection of receivers
 
 o) MUST be able to disseminate the information from senders to the
    destination nodes located in the destination geographic area in a
