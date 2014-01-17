@@ -245,7 +245,7 @@ IP-location database is not very accurate; besides, bilateral privacy
 concerns may some times represent risks.  It is thus necessary to get
 accurate geographic information by some reasonable ways.
 
-o Gelocation of Instrumented Ambulance
+o Geolocation of an Instrumented Ambulance
 
 An ambulance has a casualty; the primary objective is to get the
 medical data (e.g. vital signs) securely delivered to the hospital, by
