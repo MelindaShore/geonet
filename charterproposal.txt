@@ -41,10 +41,10 @@ The new dissemination mechanism can not be used to identify, or
 prevent access, to the requests issued from a particular geographical
 area.
 
-The initial objectives of the group are focused in particular on
-agreeing on a vocabulary for contexts using IP protocols and geography
-coordinates, data definitions of the geo-spatial locators
-('geolocators'), and a bi-directional translation between geo-spatial
+The initial objectives of the group are focused in particular on a
+common vocabulary for contexts using IP protocols and geography
+coordinates, on a data definition of geolocators, and on defining a
+bi-directional relationship - not a mechanism - between geo-spatial
 locators and IP locators.
 
 In general, for a complete solution, mechanisms and protocol solutions
