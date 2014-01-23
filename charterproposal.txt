@@ -37,9 +37,9 @@ concerns of sender and receiver.  Parameters such as geographical
 coordinates and other geo-locators such as civic addresses should be
 usable in order to specify the destination of the dissemination.
 
-The new dissemination mechanism can not be used to identify, or
-prevent access, to the requests issued from a particular geographical
-area.
+The new dissemination mechanism can not be used to identify the
+geographical situation of computers issuing requests to resources, nor
+to prevent access based on this identification.
 
 The initial objectives of the group are focused in particular on a
 common vocabulary for contexts using IP protocols and geography
