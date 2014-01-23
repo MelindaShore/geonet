@@ -1,8 +1,7 @@
-              GeoNet BoF at IETF
-               Charter Proposal
-              January 23rd, 2014
-         http://ietf.org/mailman/listinfo/its
-
+			  GeoNet BoF at IETF
+			   Charter Proposal
+			  January 23rd, 2014
+	     https://github.com/MelindaShore/geonet/wiki
 
 
 Internet-Wide GeoNetworking (GeoNet)
@@ -22,8 +21,9 @@ Mailing list
   Archive:
   http://www.ietf.org/mail-archive/web/its/current/maillist.html
 
-Additional web page, old
-  http://www.lara.prd.fr/ietf-its
+Additional web page:
+  https://github.com/MelindaShore/geonet/wiki
+  or the older http://www.lara.prd.fr/ietf-its
 
 Charter Proposal
 
