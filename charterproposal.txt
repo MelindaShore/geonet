@@ -1,6 +1,6 @@
               GeoNet BoF at IETF
                Charter Proposal
-              January 17th, 2014
+              January 23rd, 2014
          http://ietf.org/mailman/listinfo/its
 
 
@@ -29,14 +29,17 @@ Charter Proposal
 
 The group is concerned with Internet-wide geonetworking.
 
-IP routing and addressing are completely unaware of
-geography.  Mechanisms and IETF protocols are needed for
-authorized source nodes anywhere in the Internet to
-disseminate packets to other nodes in areas described by
-geographic parameters, while respecting the privacy concerns
-of sender and receiver.  Parameters such as geographical
-coordinates and other geo-locators such as civic addresses
-should be usable.
+IP routing and addressing are completely unaware of geography.
+Mechanisms and IETF protocols are needed for authorized source nodes
+anywhere in the Internet to disseminate packets to other nodes in
+areas described by geographic parameters, while respecting the privacy
+concerns of sender and receiver.  Parameters such as geographical
+coordinates and other geo-locators such as civic addresses should be
+usable in order to specify the destination of the dissemination.
+
+The new dissemination mechanism can not be used to identify, or
+prevent access, to the requests issued from a particular geographical
+area.
 
 In particular, mechanisms and protocol solutions are needed:
 
