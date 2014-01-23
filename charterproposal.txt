@@ -39,7 +39,7 @@ usable in order to specify the destination of the dissemination.
 
 The new dissemination mechanism can not be used to identify the
 geographical situation of computers issuing requests to resources, nor
-to prevent access based on this identification.
+to prevent access based on such supposed identification.
 
 The initial objectives of the group are focused in particular on a
 common vocabulary for contexts using IP protocols and geography
