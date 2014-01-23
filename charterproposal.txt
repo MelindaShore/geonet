@@ -42,10 +42,10 @@ prevent access, to the requests issued from a particular geographical
 area.
 
 The initial objectives of the group are focused in particular on
-defining language terms for simultaneous descriptions of IP protocols
-and geography coordinates (e.g. disambiguate terms such as 'mapping'),
-data definitions of the geo-spatial locators, and a bi-directional
-translation between geo-spatial locators and IP locators.
+agreeing on a vocabulary for contexts using IP protocols and geography
+coordinates, data definitions of the geo-spatial locators
+('geolocators'), and a bi-directional translation between geo-spatial
+locators and IP locators.
 
 In general, for a complete solution, mechanisms and protocol solutions
 are needed for the items below:
